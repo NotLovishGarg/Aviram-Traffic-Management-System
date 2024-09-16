@@ -1,0 +1,17 @@
+<configuration>
+    <input>
+       <net-file value="mynetw.net.xml"/>
+       <additional-files value="additional.xml"/>
+       <route-files value="myrou.rou.xml"/>
+       
+
+       
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+    <output>
+        <tripinfo-output value="tripinfo.xml"/>
+    </output>
+</configuration>

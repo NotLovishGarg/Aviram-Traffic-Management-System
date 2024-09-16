@@ -1,0 +1,31 @@
+<additional>
+    
+    <inductionLoop id="detector_0" lane="E0_0" pos="10" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_1" lane="-E0_0" pos="75" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_2" lane="-E2_0" pos="112" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_3" lane="E2_0" pos="10" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_4" lane="E3_0" pos="10" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_5" lane="-E3_0" pos="10" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_6" lane="-E8_0" pos="112" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_7" lane="E8_0" pos="10" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_8" lane="E7_0" pos="10" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_9" lane="E11_0" pos="10" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_10" lane="E6_0" pos="10" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_11" lane="E10_0" pos="10" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_12" lane="-E10_0" pos="23" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_13" lane="E5_0" pos="10" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_14" lane="E4_0" pos="10" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_15" lane="E9_0" pos="10" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_16" lane="-E8_0" pos="110" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_17" lane="E1_0" pos="15" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_18" lane="-E1_0" pos="32" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_19" lane="E2_0" pos="112" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_20" lane="-E2_0" pos="10" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_21" lane="-E4_0" pos="38" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_22" lane="-E3_0" pos="70" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_23" lane="E3_0" pos="70" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_24" lane="-E5_0" pos="35" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_25" lane="E8_0" pos="112" freq="1" file="detector_output.xml"/>
+    <inductionLoop id="detector_26" lane="-E8_0" pos="10" freq="1" file="detector_output.xml"/>
+
+</additional>

@@ -1,0 +1,21 @@
+<routes>
+  
+  <vType id="car" accel="1.0" decel="4.5" sigma="0.5" length="5" maxSpeed="20" />
+
+  
+  <route id="clockwise_loop" edges="-E10 E0 E2 E3 -E8 E10" />
+  <route id="clockwise_loop2" edges="-E10 E0 E2 E4" />
+  <route id="clockwise_loop4" edges="E0 E1" />
+  <route id="clockwise_loop3" edges="E0 E2 E3 E11" />
+  <route id="counterclockwise_loop" edges="-E1 E2 E3 E9 " />
+  <route id="counterclockwise_loop2" edges="-E5 E3 -E8 E10" />
+  <route id="counterclockwise_loop3" edges="E8 -E3 E5" />
+  <route id="emergency_route" edges="E0 E2 E3 -E8" />
+
+ 
+  <flow id="flow0" type="car" route="clockwise_loop" begin="0" end="3000" period="10" />
+
+  <flow id="flow2" type="car" route="counterclockwise_loop" begin="0" end="3000" period="10" />
+  <flow id="flow3" type="car" route="counterclockwise_loop2" begin="0" end="3000" period="10" />
+
+</routes>
