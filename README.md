@@ -48,9 +48,9 @@ Aviram uses **computer vision** to read live traffic and **reinforcement learnin
 
 ## Reward Function
 
-\[
-\mathcal{R}_t = -\left(\alpha \sum Q_t \;+\; \beta \sum D_t \;+\; \gamma \cdot \mathbf{1}_{E_t=1} \cdot T_{\text{delay}}\right)
-\]
+$$
+\mathcal{R}_t = -\left(\alpha \sum Q_t + \beta \sum D_t + \gamma \cdot \mathbf{1}_{E_t=1} \cdot T_{\text{delay}}\right)
+$$
 
 - Queue penalty and waiting-time penalty reduce congestion.  
 - Emergency delay term (higher weight) creates a corridor without freezing the city.  
